@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	 
+	 height: 100%;
+}
+.row{
+	height: 100%;
+	background-color: red;
+}
+form h1{
+	text-align: center;
+}
