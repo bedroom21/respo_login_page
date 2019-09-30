@@ -3,13 +3,23 @@
 	padding: 0;
 }
 body{
-	 
-	 height: 100%;
 }
 .row{
 	height: 100%;
 	background-color: red;
+	width: 100%;
 }
 form h1{
 	text-align: center;
+}
+.form-col{
+	background-color: cyan;
+}
+.vertical-center {
+  
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: yellow;
 }
